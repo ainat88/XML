@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8 " ?>
+<MySkillsAfterCourse>
+	<theory>SDLC</theory>
+	<HTTP>Structure</HTTP>
+	<Github>clone, add, commit, push, branch</Github>
+	<Gitbash>pwd, mkdir, touch, vim</Gitbash>
+	<API_test>Postman</API_test>
+	<Logs>Server logs</Logs>
+	<Dev_tools>true</Dev_tools>
+	<cmd_line>Gitbash</cmd_line>
+	<Rel_DB>SQL</Rel_DB>
+	<Loadtest>Jmeter</Loadtest>
+	<Nonrel_DB>Redis</Nonrel_DB>
+	<Sniffing>Charles</Sniffing>
+</MySkillsAfterCourse>
+
