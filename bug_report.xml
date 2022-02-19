@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8 " ?>
+<bug_report>
+  <Bug_id>1_front</Bug_id>
+  <Bug_header>Вместо Четверга появляется Среда в поле День недели</Bug_header>
+  <Bug_STP_1>Открыть приложение</Bug_STP_1>
+  <Bug_STP_2>В поле Дата ввести  27.01.2022</Bug_STP_2>
+  <Bug_STP_3>Нажать кнопку Определить</Bug_STP_3>
+  <AR>В поле День недели появляется запись Среда</AR>
+  <ER>В поле День недели появляется запись Четверг</ER>
+  <Bug_severity>High</Bug_severity>
+  <Bug_priority>High</Bug_priority>
+  <OS>Windows 10</OS>
+  <Browser>Chrome, latest</Browser>
+</bug_report>
